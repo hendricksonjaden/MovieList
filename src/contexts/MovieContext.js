@@ -23,5 +23,4 @@ const MovieContextProvider = (props) => {
   )
 }
 
-
 export default MovieContextProvider
