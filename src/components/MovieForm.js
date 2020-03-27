@@ -9,6 +9,8 @@ const MovieForm = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     addMovie(title, genre)
+    setTitle(" ")
+    setGenre(" ")
   }
 
   return (
