@@ -1,0 +1,5 @@
+{
+  "files.association": {
+    "*.js": "javascriptreact"
+  }
+}
